@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Chatura
+- 🌱 I’m currently learning DSA 
